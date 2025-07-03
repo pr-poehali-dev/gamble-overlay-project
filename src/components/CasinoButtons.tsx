@@ -17,8 +17,7 @@ const CasinoButtons = () => {
         className="w-full bg-gradient-to-r from-purple-500 to-pink-500 hover:from-purple-600 hover:to-pink-600 text-white font-bold py-6 rounded-full shadow-lg transform hover:scale-105 transition-all duration-200 text-lg"
         onClick={() => window.open("https://t.me/+v_-CZBwlYqg1OWZi", "_blank")}
       >
-        <Icon name="Coins" size={24} className="mr-3" />
-        🎲 СЛОТЫ И РУЛЕТКА
+        telegram + bonus
       </Button>
 
       <Button
