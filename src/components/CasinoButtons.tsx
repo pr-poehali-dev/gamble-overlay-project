@@ -23,7 +23,12 @@ const CasinoButtons = () => {
 
       <Button
         className="w-full bg-gradient-to-r from-green-500 to-blue-500 hover:from-green-600 hover:to-blue-600 text-white font-bold py-6 rounded-full shadow-lg transform hover:scale-105 transition-all duration-200 text-lg"
-        onClick={() => window.open("https://t.me/+v_-CZBwlYqg1OWZi", "_blank")}
+        onClick={() =>
+          window.open(
+            "https://1wcjlr.com/casino/list?open=register&p=sbpl",
+            "_blank",
+          )
+        }
       >
         <Icon name="Trophy" size={24} className="mr-3" />
         🏆 LIVE КАЗИНО

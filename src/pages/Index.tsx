@@ -68,7 +68,12 @@ const Index = () => {
 
         {/* Bottom Footer */}
         <div className="px-4 mb-8">
-          <div className="bg-white/10 backdrop-blur-sm rounded-full p-4 flex items-center justify-between">
+          <div
+            className="bg-white/10 backdrop-blur-sm rounded-full p-4 flex items-center justify-between cursor-pointer hover:bg-white/20 transition-all duration-200"
+            onClick={() =>
+              window.open("https://t.me/+v_-CZBwlYqg1OWZi", "_blank")
+            }
+          >
             <div className="flex items-center space-x-2">
               <span className="text-white">🍀</span>
               <span className="text-white font-medium">Beacons</span>
