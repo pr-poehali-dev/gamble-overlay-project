@@ -76,7 +76,7 @@ const Index = () => {
           >
             <div className="flex items-center space-x-2">
               <span className="text-white">🍀</span>
-              <span className="text-white font-medium">Beacons</span>
+              <span className="text-white font-medium">TELEGRAM</span>
             </div>
             <span className="text-white font-medium">Try for free!</span>
           </div>
