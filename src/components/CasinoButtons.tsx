@@ -17,7 +17,11 @@ const CasinoButtons = () => {
         className="w-full bg-gradient-to-r from-purple-500 to-pink-500 hover:from-purple-600 hover:to-pink-600 text-white font-bold py-6 rounded-full shadow-lg transform hover:scale-105 transition-all duration-200 text-lg"
         onClick={() => window.open("https://t.me/+v_-CZBwlYqg1OWZi", "_blank")}
       >
-        <Icon name="MessageCircle" size={24} className="mr-3" />
+        <img
+          src="https://cdn.poehali.dev/files/54500896-a708-4d6d-bfb2-30184efd401f.png"
+          alt="Telegram"
+          className="w-6 h-6 mr-3"
+        />
         📱 TELEGRAM + БОНУС
       </Button>
 
