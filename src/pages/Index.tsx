@@ -78,7 +78,7 @@ const Index = () => {
               <span className="text-white">🍀</span>
               <span className="text-white font-medium">TELEGRAM</span>
             </div>
-            <span className="text-white font-medium">Try for free!</span>
+            <span className="text-white font-medium">DAPATKAN BONUS</span>
           </div>
         </div>
       </div>
