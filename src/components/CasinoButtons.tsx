@@ -29,8 +29,7 @@ const CasinoButtons = () => {
           )
         }
       >
-        <Icon name="Trophy" size={24} className="mr-3" />
-        🏆 LIVE КАЗИНО
+        🏆 LIVE kasino
       </Button>
 
       <div className="mt-6 text-center">
