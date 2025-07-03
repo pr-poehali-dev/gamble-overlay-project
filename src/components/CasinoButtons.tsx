@@ -9,8 +9,7 @@ const CasinoButtons = () => {
         className="w-full bg-gradient-to-r from-orange-500 to-red-500 hover:from-orange-600 hover:to-red-600 text-white font-bold py-6 rounded-full shadow-lg transform hover:scale-105 transition-all duration-200 text-lg"
         onClick={() => window.open("https://1wcjlr.com/?p=h40e", "_blank")}
       >
-        <Icon name="Plane" size={24} className="mr-3" />
-        ✈️ АВИАТОР ИГРАТЬ
+        ✈️ AVIAMASTER GAME
       </Button>
 
       <Button
