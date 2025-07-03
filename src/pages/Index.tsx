@@ -23,7 +23,7 @@ const Index = () => {
         <div className="text-center mb-6 px-4">
           <div className="mb-4">
             <img
-              src="https://cdn.poehali.dev/files/0db93dfb-b66b-4775-8019-2725a03ead84.jpg"
+              src="https://cdn.poehali.dev/files/a9564a96-143a-48bc-a893-8211d6b09597.jpg"
               alt="Airplane Casino"
               className="w-48 h-32 mx-auto object-contain animate-pulse"
             />
