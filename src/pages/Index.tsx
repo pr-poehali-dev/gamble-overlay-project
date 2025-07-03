@@ -59,7 +59,7 @@ const Index = () => {
         <div className="px-4 mb-8">
           <div className="bg-gray-900 rounded-3xl p-4 shadow-xl">
             <img
-              src="https://cdn.poehali.dev/files/567bb896-4d5c-4a8f-97d9-d617e95d4bd3.jpg"
+              src="https://cdn.poehali.dev/files/e3190f75-695a-49b7-a839-146739c317a4.jpg"
               alt="Game Preview"
               className="w-full h-48 object-cover rounded-2xl"
             />
