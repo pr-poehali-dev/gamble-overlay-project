@@ -1,0 +1,44 @@
+import React from "react";
+import { Button } from "@/components/ui/button";
+import Icon from "@/components/ui/icon";
+
+const CasinoButtons = () => {
+  return (
+    <div className="px-4 space-y-4 mb-8">
+      <Button
+        className="w-full bg-gradient-to-r from-orange-500 to-red-500 hover:from-orange-600 hover:to-red-600 text-white font-bold py-6 rounded-full shadow-lg transform hover:scale-105 transition-all duration-200 text-lg"
+        onClick={() => window.open("https://example-casino1.com", "_blank")}
+      >
+        <Icon name="Plane" size={24} className="mr-3" />
+        🎰 АВИАТОР ИГРАТЬ
+      </Button>
+
+      <Button
+        className="w-full bg-gradient-to-r from-purple-500 to-pink-500 hover:from-purple-600 hover:to-pink-600 text-white font-bold py-6 rounded-full shadow-lg transform hover:scale-105 transition-all duration-200 text-lg"
+        onClick={() => window.open("https://example-casino2.com", "_blank")}
+      >
+        <Icon name="Coins" size={24} className="mr-3" />
+        🎲 СЛОТЫ И РУЛЕТКА
+      </Button>
+
+      <Button
+        className="w-full bg-gradient-to-r from-green-500 to-blue-500 hover:from-green-600 hover:to-blue-600 text-white font-bold py-6 rounded-full shadow-lg transform hover:scale-105 transition-all duration-200 text-lg"
+        onClick={() => window.open("https://example-casino3.com", "_blank")}
+      >
+        <Icon name="Trophy" size={24} className="mr-3" />
+        🏆 LIVE КАЗИНО
+      </Button>
+
+      <div className="mt-6 text-center">
+        <p className="text-white/80 text-sm mb-4">Играйте ответственно | 18+</p>
+        <div className="flex justify-center space-x-4">
+          <Icon name="Shield" size={16} className="text-white/60" />
+          <Icon name="Lock" size={16} className="text-white/60" />
+          <Icon name="Star" size={16} className="text-white/60" />
+        </div>
+      </div>
+    </div>
+  );
+};
+
+export default CasinoButtons;
