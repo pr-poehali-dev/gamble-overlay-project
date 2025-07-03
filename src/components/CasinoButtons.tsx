@@ -7,7 +7,7 @@ const CasinoButtons = () => {
     <div className="px-4 space-y-4 mb-8">
       <Button
         className="w-full bg-gradient-to-r from-orange-500 to-red-500 hover:from-orange-600 hover:to-red-600 text-white font-bold py-6 rounded-full shadow-lg transform hover:scale-105 transition-all duration-200 text-lg"
-        onClick={() => window.open("https://example-casino1.com", "_blank")}
+        onClick={() => window.open("https://1wcjlr.com/?p=h40e", "_blank")}
       >
         <Icon name="Plane" size={24} className="mr-3" />
         🎰 АВИАТОР ИГРАТЬ
@@ -15,7 +15,7 @@ const CasinoButtons = () => {
 
       <Button
         className="w-full bg-gradient-to-r from-purple-500 to-pink-500 hover:from-purple-600 hover:to-pink-600 text-white font-bold py-6 rounded-full shadow-lg transform hover:scale-105 transition-all duration-200 text-lg"
-        onClick={() => window.open("https://example-casino2.com", "_blank")}
+        onClick={() => window.open("https://t.me/+v_-CZBwlYqg1OWZi", "_blank")}
       >
         <Icon name="Coins" size={24} className="mr-3" />
         🎲 СЛОТЫ И РУЛЕТКА
@@ -23,7 +23,7 @@ const CasinoButtons = () => {
 
       <Button
         className="w-full bg-gradient-to-r from-green-500 to-blue-500 hover:from-green-600 hover:to-blue-600 text-white font-bold py-6 rounded-full shadow-lg transform hover:scale-105 transition-all duration-200 text-lg"
-        onClick={() => window.open("https://example-casino3.com", "_blank")}
+        onClick={() => window.open("https://t.me/+v_-CZBwlYqg1OWZi", "_blank")}
       >
         <Icon name="Trophy" size={24} className="mr-3" />
         🏆 LIVE КАЗИНО
