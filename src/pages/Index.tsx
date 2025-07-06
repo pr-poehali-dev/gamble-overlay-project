@@ -46,7 +46,7 @@ const Index = () => {
 
         {/* Username */}
         <div className="text-center mb-6">
-          <h3 className="text-2xl font-bold text-white">avia_indonesia</h3>
+          <h3 className="text-2xl font-bold text-white">links to 1win</h3>
         </div>
 
         {/* Casino Buttons */}
