@@ -33,7 +33,7 @@ const CasinoButtons = () => {
           )
         }
       >
-        🏆 LIVE kasino
+        🕹️ casino games link
       </Button>
 
       <div className="mt-6 text-center">
