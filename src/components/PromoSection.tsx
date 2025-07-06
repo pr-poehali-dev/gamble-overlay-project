@@ -16,7 +16,7 @@ const PromoSection = () => {
 
           <div className="flex-1">
             <h3 className="text-lg font-bold text-gray-800 mb-2">
-              500% bonus pada setoran pertama Anda dengan kode promo
+              500% bonus on your first deposit with promo code
             </h3>
 
             <div className="bg-blue-600 text-white px-4 py-2 rounded-full inline-flex items-center space-x-2">
