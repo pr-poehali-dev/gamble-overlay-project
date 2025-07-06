@@ -37,7 +37,7 @@ const Index = () => {
                 <span className="text-yellow-300">⭐</span>
               </div>
               <h2 className="text-3xl font-bold text-yellow-300 mb-2">
-                PERMAINAN
+                games{" "}
               </h2>
               <h3 className="text-xl font-bold text-cyan-300">DARI BAWAH</h3>
             </div>
