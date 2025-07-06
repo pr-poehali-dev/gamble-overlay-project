@@ -20,7 +20,9 @@ const PromoSection = () => {
             </h3>
 
             <div className="bg-blue-600 text-white px-4 py-2 rounded-full inline-flex items-center space-x-2">
-              <span className="text-sm font-medium">DENGAN KODE PROMOSI:</span>
+              <span className="text-sm font-medium">
+                WITH PROMOTIONAL CODE:
+              </span>
               <span className="font-bold">WINMAX00</span>
             </div>
           </div>
